@@ -12,10 +12,10 @@ site_theme               : "default" # Currently available options are "default"
 title                    : HayesYoung58
 title_separator          : "-"
 name                     : &name "Haoyi Yang"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description ""
+url                      : https://HayesYoung58.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "HayesYoung58/HayesYoung58.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,22 +25,22 @@ author:
   avatar           : "profile.png"
   name             : "Haoyi Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Phd Student"
   location         : "Auckland, New Zealand"
   employer         : "The University of Auckland"
   uri              : # URL
   email            : yhy2442939401@gmail.com
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://profiles.auckland.ac.nz/hyan512"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : https://scholar.google.com/citations?user=4qk0QIIAAAAJ&hl=zh-CN&authuser=1
+  googlescholar    : "https://scholar.google.com/citations?user=4qk0QIIAAAAJ&hl=zh-CN&authuser=1"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0002-7361-3425"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : https://www.researchgate.net/profile/Haoyi-Yang-4?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Haoyi-Yang-4?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   scopus           : # URL
 
   # Repositories and software development
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
