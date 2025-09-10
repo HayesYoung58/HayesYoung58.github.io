@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : Mr.
+title                    : HayesYoung58
 title_separator          : "-"
 name                     : &name "Haoyi Yang"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Auckland, New Zealand"
+  employer         : "The University of Auckland"
   uri              : # URL
   email            : yhy2442939401@gmail.com
 
